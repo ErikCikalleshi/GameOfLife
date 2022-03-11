@@ -1,0 +1,3 @@
+/home/erikck/Uni/PS_OS/exercise01/GameOfLife/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/erikck/Uni/PS_OS/exercise01/GameOfLife/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/erikck/Uni/PS_OS/exercise01/GameOfLife/cmake-build-debug/CMakeFiles/own_game.dir
